@@ -1,1 +1,1 @@
-web: gunicorn hellohello-django.wsgi
+web: gunicorn my_project.wsgi
